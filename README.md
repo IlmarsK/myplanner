@@ -1,4 +1,0 @@
-# myplanner
-Developing planner
-
-Cau!
